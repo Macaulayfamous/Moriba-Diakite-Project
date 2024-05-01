@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546877991786",
+    "project_id": "moriba-ec7b5",
+    "storage_bucket": "moriba-ec7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546877991786:android:206cfa017ac97150f35313",
+        "android_client_info": {
+          "package_name": "com.moriba.moriba_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhn82Hwgmmtq-ZLlEYiVnw2xeq5U_ur4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
